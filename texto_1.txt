@@ -1,0 +1,6 @@
+Hola, hoy es 05 de Diciembre
+El año es 2023, Diciembre es el mes 20
+La semana del curso es la numero 7
+Esta es una linea de prueba
+Esta es una linea de prueba_2
+Esta es una linea de prueba_3
